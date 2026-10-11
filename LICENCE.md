@@ -11,7 +11,7 @@
     developed under this licence.
 
     The author of the code under this licence (AS IS) dont want you to 
-    (you can cuz it is liberal but whatever) running it a dumbass and 
+    (you can cuz it is liberal but whatever) running it as a dumbass and 
     running someones code without looking at it.
 
     If you are a dumbass and run this code without checking the 
