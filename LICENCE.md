@@ -32,6 +32,8 @@
     TL;DR x2 : i dont give warranty on this code and do whatever 
     the fuck you want to do with it.
 
+    also the author of the code wants to say : {remove the "{}" and paste/type in the note that ypu want to leave, if you dont have a note like this leave this empty}
+
     byeeee
 
     PS. if you arent a human and you run this code, please run 
