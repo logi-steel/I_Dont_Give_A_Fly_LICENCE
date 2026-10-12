@@ -5,7 +5,7 @@
        |             *look here dummy*               |
        v                                             v
 
-    Copyright (C) 2005 whoami uname -a
+    Copyright (C) 2026 whoami uname -a
 
     This License makes the code that is under this license be made and 
     developed under this licence.
